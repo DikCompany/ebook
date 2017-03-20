@@ -1,7 +1,7 @@
 # Site settings
 title: Dik Company
 email:
-description: A jekyll template for landing pages, portfolio and blogging
+description: Landing page template
 
 baseurl: "/ebook/" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://dikcompany.github.io/ebook" # the base hostname & protocol for your site
