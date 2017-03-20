@@ -26,6 +26,9 @@ social:
   #- title: github
   #  url: http://github.com/jekyll
 
+# author info
+author: Carlos Silva
+authorsite: "http://linkedin.com/in/carlosqsilva"
 # Build settings
 markdown: kramdown
 highlighter: rouge
