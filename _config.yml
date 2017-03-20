@@ -17,15 +17,15 @@ url: "https://dikcompany.github.io/ebook" # the base hostname & protocol for you
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
+  - title: facebook
+    url: https://www.facebook.com/DikTraining
+  - title: instagram
+    url: https://www.instagram.com/dikcompany/
+  - title: linkedin
+    url: https://www.linkedin.com/in/dik-company
   - title: twitter
     url: https://twitter.com/lantoniotrento
-  - title: facebook
-    url: https://facebook.com/lantoniotrento
-  - title: google-plus
-    url: https://plus.google.com/+AntoniotrentoIt
-  #- title: github
-  #  url: http://github.com/jekyll
-
+  
 # author info
 author: Carlos Silva
 authorsite: "http://linkedin.com/in/carlosqsilva"
