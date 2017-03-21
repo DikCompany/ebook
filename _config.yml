@@ -4,7 +4,7 @@ email:
 description: Landing page template
 
 main: Infografico emprendorismo tendencias para 2017
-companysite: dikcompany.com
+companysite: "dikcompany.com"
 
 baseurl: "/ebook/" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://dikcompany.github.io/ebook" # the base hostname & protocol for your site
