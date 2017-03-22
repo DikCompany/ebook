@@ -31,7 +31,7 @@ social:
   
 # author info
 author: Carlos Silva
-authorsite: "http://linkedin.com/in/carlosqsilva"
+authorsite: "https://carlosqsilva.github.io/"
 # Build settings
 markdown: kramdown
 highlighter: rouge
